@@ -1,7 +1,7 @@
-# Getting Started with Create React App
 
 
-****Creating a netflix clone app using react javascript framework******
+
+#****Creating a netflix clone app using react javascript framework******
 
  tools used in creating this app where
  
